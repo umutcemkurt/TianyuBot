@@ -13,6 +13,6 @@
     "anidbjs": "^2.4.1",
     "discord.js": "^11.5.1",
     "jikan-node": "^1.2.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
